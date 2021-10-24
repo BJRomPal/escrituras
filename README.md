@@ -1,0 +1,2 @@
+# escrituras
+Respositorio visualizaciones escrituras
